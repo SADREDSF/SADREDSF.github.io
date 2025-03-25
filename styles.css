@@ -7,6 +7,13 @@ body{
     width: 1200px;
     margin: auto;
 }
+#welcome{
+    width: 600px;
+    margin: auto;
+    border: rgb(0, 0, 0) 2px solid;
+    background-color: rgb(190, 190, 190);
+    text-align: center;
+}
 .pfp{
     float: left;
     margin-top: 50px;
