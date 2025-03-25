@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+#wrapper{
+    background-color: white;
+    border-radius: 50px;
+    width: 1200px;
+    margin: auto;
+}
+.pfp{
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 100px;
+    border: solid black 2px;
+}
+#bio{
+    float: left;
+    padding-left: 50px;
+    margin-top: 5px;
+    color: rgb(0, 0, 0);
+}
+.name{
+    padding-top: 100px;
+    padding-left: 300px;
+}
+#info{
+    float: left;
+    margin-left: 100px;
+    padding-left: auto;
+    list-style: none;
+    width: 1000px;
+    border-radius: 10px;
+}
+#infoCatL,#infoCatR{
+    width: 350px;
+    box-shadow: 2px 2px rgb(120, 120, 120);
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(225, 225, 225);
+}
+#infoCatL{
+    float: left;
+}
+#infoCatR{
+    float: right;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
