@@ -14,6 +14,9 @@ if(isMorning){
     timeWelcome.textContent = "Good Evening"
 }
 
+const key = "It's a secret to everybody."
+localStorage.setItem(key, "DON'T TELL ANYONE HERE'S SOME RUPEES.")
+
 const p = document.querySelector('p')
 
 setTimeout(() => {
